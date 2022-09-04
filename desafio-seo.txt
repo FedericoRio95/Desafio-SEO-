@@ -1,0 +1,26 @@
+keywrods:
+-index: agregue palabras Impresoras3D, filamentos, repuestos, lapiz3D, Printalot, 3N3filamentos.
+-contactos: agregue palabras ayuda, sporte, atencion, impresoras3D, cliente
+-filamentos: agregue palabras impresoras 3D, filamentos, Printalot, 3N3, PLA, colores
+-impresoras: Imprimi3D, impresoras3D, impresoras Resina, Ender, Ender pro, MAX V2
+-repuestos: impresoras3D, repuestos, electronica, ventiladores, picos, mangueras
+
+description:
+
+*index: agregue descripciones: Tienda de filamentos E impresoras 3D
+*contactos: agregue descripciones: completa el fomurlario para dejar tus consultas
+*filamentos: agregue descripciones: filamentos para impresoras 3D, Printalot, PLA, 3N3
+*impresoras: agregue descripciones: impresoras 3D variedad de marcas
+*repuestos: agregue descripciones: repuestos para impresoras 3D variedad de marcas
+
+Titulos
+
+Cambie nombres de los titulos de las diferente secciones
+
+Imprimi3D | repuestos
+Imprimi3D | contactos
+Imprimi3D | filamentos
+Imprimi3D | impresoras
+Imprimi3D | Inicio
+
+
